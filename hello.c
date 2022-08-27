@@ -8,7 +8,7 @@
 
 int main(int argc, char **argv) {
 
-    printf("My name is Benjamin Wormsley.\nI am majoring in Computer Engineering.");
+    printf("My name is Benjamin Wormsley.\nI am majoring in Computer Engineering.\n");
 
     return 0;
 }
